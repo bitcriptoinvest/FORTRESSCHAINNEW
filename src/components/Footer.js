@@ -183,7 +183,7 @@ export default function Footer() {
                         <img onClick={() => window.open("https://fortresschain.gitbook.io/fortress-chain/")} src={Github} alt="" />
                     </div>
                 </div>
-                <Copyright>© Aura Network {new Date().getFullYear()}.</Copyright>
+                <Copyright>© FortressChain {new Date().getFullYear()}.</Copyright>
             </Wrap>
         </Container>
     )
