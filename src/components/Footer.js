@@ -111,14 +111,14 @@ export default function Footer() {
                         <div className="nav-bar__col">
                             <p>Developer</p>
                             <a
-                                href="https://docs.aura.network/"
+                                href="https://fortresschain.gitbook.io/fortress-chain/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="nav-bar-item">
                                 Docs
                             </a>
                             <a
-                                href="https://docs.aura.network/developer/"
+                                href="https://fortresschain.gitbook.io/fortress-chain/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="nav-bar-item">
@@ -135,14 +135,14 @@ export default function Footer() {
                         <div className="nav-bar__col">
                             <p>Ecosystem</p>
                             <a
-                                href="https://github.com/aura-nw/whitepaper/blob/main/release/Aura_Network___whitepaper.pdf"
+                                href="https://fortresschain.gitbook.io/fortress-chain/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="nav-bar-item">
                                 Whitepaper
                             </a>
                             <a
-                                href="https://docs.aura.network/overview/intro/"
+                                href="https://fortresschain.gitbook.io/fortress-chain/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="nav-bar-item">
@@ -168,9 +168,9 @@ export default function Footer() {
                         </div>
                     </div>
                     <div className="links">
-                        <img onClick={() => window.open(" https://twitter.com/AuraNetworkHQ")} src={Twitter} alt="" />
+                        <img onClick={() => window.open("https://fortresschain.gitbook.io/fortress-chain/")} src={Twitter} alt="" />
                         <img
-                            onClick={() => window.open("https://discord.com/invite/ZFHepmtZvr")}
+                            onClick={() => window.open("https://fortresschain.gitbook.io/fortress-chain/")}
                             src={Discord}
                             alt=""
                         />
