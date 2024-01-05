@@ -66,13 +66,13 @@ p {
     margin: 0;
 }
 .color__f4 {
-    color: #f4f4f4;
+    color: #757575;
 }
 .text__large {
     font-weight: 800;
     font-size: 64px;
     line-height: 100%;
-    color: #ffffff;
+    color: #757575;
     text-transform: capitalize;
     text-shadow: 0px 0px 50px rgba(255, 255, 255, 0.4);
 }
