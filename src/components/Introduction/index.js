@@ -138,8 +138,8 @@ export default function Introdution() {
           </span>
         </div>
         <div className='text'>
-          <h1 className='text__large'>The layer 1 for emerging countries</h1>
-          <p className='color__f4'>Build and drive Blockchain mass adoption through modular tech stacks and account abstraction.</p>
+          <h1 className='text__large'>The fastest, low fee Evm Chain</h1>
+          <p className='color__f4'>Focus on transaction speed and best fees. Users will have multiple on-chain profit opportunities on liquidity provide, yield farming and trading on cex and dex.</p>
         </div>
         <div className='img'>
           <img className='aura-img' src={AuraTokenImg} alt='' />
