@@ -114,7 +114,7 @@ p {
     overflow: hidden;
     border: 1px solid transparent;
     background-image: linear-gradient(rgba(10, 9, 29, 0.233), rgba(10, 9, 29, 0.568)),
-        linear-gradient(304.78deg, rgba(245, 251, 242, 0.185) -6.31%, rgba(11 , 183, 0, 116) 110.8%);
+        linear-gradient(304.78deg, rgba(245, 251, 242, 0.185) -6.31%, rgba(11 , 183, 1, 116) 110.8%);
     background-origin: border-box;
     background-clip: content-box, border-box;
     animation: show 0.3s ease;
