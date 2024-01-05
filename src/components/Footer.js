@@ -149,7 +149,7 @@ export default function Footer() {
                                 DApps
                             </a>
                             <a
-                                href="https://docs.aura.network/overview/tokenomic/"
+                                href="https://fortresschain.gitbook.io/fortress-chain/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="nav-bar-item">
@@ -159,7 +159,7 @@ export default function Footer() {
                         <div className="nav-bar__col">
                             <p>Career</p>
                             <a
-                                href="https://www.notion.so/Aura-Job-Board-172bb39a89d844b0a0e1d8871026dc23"
+                                href="https://fortresschain.gitbook.io/fortress-chain/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="nav-bar-item">
@@ -174,13 +174,13 @@ export default function Footer() {
                             src={Discord}
                             alt=""
                         />
-                        <img onClick={() => window.open("https://t.me/AuraNetworkOfficial")} src={Telegram} alt="" />
+                        <img onClick={() => window.open("https://t.me/fortresschain")} src={Telegram} alt="" />
                         <img
-                            onClick={() => window.open("https://www.linkedin.com/company/auranetwork/")}
+                            onClick={() => window.open("https://fortresschain.gitbook.io/fortress-chain/")}
                             src={LinkedIn}
                             alt=""
                         />
-                        <img onClick={() => window.open("https://github.com/aura-nw")} src={Github} alt="" />
+                        <img onClick={() => window.open("https://fortresschain.gitbook.io/fortress-chain/")} src={Github} alt="" />
                     </div>
                 </div>
                 <Copyright>© Aura Network {new Date().getFullYear()}.</Copyright>
