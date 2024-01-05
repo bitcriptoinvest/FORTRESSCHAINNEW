@@ -46,7 +46,7 @@
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
-    background: #08071b;
+    background: #666666;
     position: fixed;
 }
 ::-webkit-scrollbar-thumb {
@@ -54,7 +54,7 @@
     border-radius: 4px;
 }
 #root {
-    background: #08071b;
+    background: #666666;
     color: #fff;
     font-family: SVN-Gilroy;
     overflow: hidden;
@@ -105,7 +105,7 @@ p {
     }
 }
 .popup-overlay {
-    background: #08071bb8;
+    background: #666666;
 }
 .popup-content {
     backdrop-filter: blur(10px);
