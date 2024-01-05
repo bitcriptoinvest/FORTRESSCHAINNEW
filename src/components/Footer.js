@@ -125,7 +125,7 @@ export default function Footer() {
                                 Tools
                             </a>
                             <a
-                                href="https://bscscan.com/address/0x23c5D1164662758b3799103Effe19cC064d897D6"
+                                href="https://bscscan.com/address/0x0b5c7fb736f29391b3ae0eee34f2b843474bac13"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="nav-bar-item">
