@@ -85,6 +85,7 @@ export default function Partner() {
                 <>
                     <div>
                     </div>
+                    <p>New partners coming soon!</p>
                 </>
             ) : (
                 <button onClick={() => setOpen(!open)}>See More Partners </button>
