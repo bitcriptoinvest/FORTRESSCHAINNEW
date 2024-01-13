@@ -1,9 +1,9 @@
 import styled from 'styled-components'
-import fpt from '../../assets/images/fpt.png'
-import gateio from '../../assets/images/gateio.png'
-import kucoin from '../../assets/images/kucoin.png'
-import matchbox from '../../assets/images/matchbox.png'
-import pencil from '../../assets/images/pencil.png'
+import fpt from '../../assets/images/coingecko.png'
+import gateio from '../../assets/images/coinmarketcap.png'
+import kucoin from '../../assets/images/bitcointry.png'
+import matchbox from '../../assets/images/bubblemaps.png'
+import pencil from '../../assets/images/cryptoclicks.png'
 import { useState } from 'react'
 const Wrap = styled.div`
     > .title {
@@ -77,11 +77,11 @@ export default function Partner() {
         <Wrap>
             <h3 className='title'>Honored to be accompanied with</h3>
             <div>
-                <img src={fpt} alt='' />
-            <img src={matchbox} alt='' />
-                        <img src={kucoin} alt='' />
-                        <img src={gateio} alt='' />
-                        <img src={pencil} alt='' />
+                <img src={bitcointry} alt='' />
+            <img src={cryptoclicks} alt='' />
+                        <img src={bubblemaps} alt='' />
+                        <img src={coinmarketcap} alt='' />
+                        <img src={coingecko} alt='' />
             </div>
             {open ? (
                 <>
