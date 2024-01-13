@@ -73,7 +73,6 @@ const Wrap = styled.div`
     }
 `
 export default function Partner() {
-    const [open, setOpen] = useState(false)
     return (
         <Wrap>
             <h3 className='title'>Honored to be accompanied with</h3>
