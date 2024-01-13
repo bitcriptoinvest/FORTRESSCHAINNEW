@@ -85,7 +85,6 @@ export default function Partner() {
                 <>
                     <div>
                     </div>
-                    <p>and others</p>
                 </>
             ) : (
                 <button onClick={() => setOpen(!open)}>See More Partners </button>
