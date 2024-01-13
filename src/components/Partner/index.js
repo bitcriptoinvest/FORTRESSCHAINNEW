@@ -74,7 +74,6 @@ const Wrap = styled.div`
 `
 export default function Partner() {
     return (
-        <Wrap>
             <h3 className='title'>Honored to be accompanied with</h3>
             <div>
                 <img src={fpt} alt='' />
@@ -85,6 +84,5 @@ export default function Partner() {
                 <img src={ld} alt='' />
             </div>
             )}
-        </Wrap>
     )
 }
