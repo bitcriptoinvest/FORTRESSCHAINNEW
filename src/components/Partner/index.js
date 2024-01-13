@@ -1,8 +1,11 @@
-import styled from 'styled-components'
 import c98 from '../../assets/images/c98.png'
+
 import fpt from '../../assets/images/fpt.png'
+
 import guildfi from '../../assets/images/guildfi.png'
 import hashed from '../../assets/images/hashed.png'
+
+
 import ld from '../../assets/images/ld.png'
 import { useState } from 'react'
 const Wrap = styled.div`
