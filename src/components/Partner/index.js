@@ -75,7 +75,7 @@ export default function Partner() {
     const [open, setOpen] = useState(false)
     return (
         <Wrap>
-            <h3 className='title'>Honored to be accompanied with</h3>
+            <h3 className='title'>Partners</h3>
             <div>
                 <img src={blizzard} alt='' />
             <img src={c98} alt='' />
