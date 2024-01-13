@@ -100,47 +100,22 @@ export default function Partner() {
             <h3 className='title'>Honored to be accompanied with</h3>
             <div>
                 <img src={fpt} alt='' />
-                <img src={hashed} alt='' />
-                <img src={c98} alt='' />
-                <img src={guildfi} alt='' />
-                <img src={crypto} alt='' />
-                <img src={ld} alt='' />
             </div>
             <div>
             <img src={matchbox} alt='' />
-                <img src={istari} alt='' />
-                <img src={impossible} alt='' />
-                <img src={gbv} alt='' />
-                <img src={kyber} alt='' />
-                <img src={ngc} alt='' />
             </div>
             {open ? (
                 <>
                     <div>
                         <img src={kucoin} alt='' />
-                        <img src={snz} alt='' />
-                        <img src={k300} alt='' />
-                        <img src={blizzard} alt='' />
-                        <img src={mexc} alt='' />
                     </div>
                     <div>
                         <img src={gateio} alt='' />
-                        <img src={tpx} alt='' />
-                        <img src={vanda} alt='' />
-                        <img src={deo} alt='' />
-                        <img src={ecomobi} alt='' />
                     </div>
-                    <div>
-                        <img src={ahamove} alt='' />
-                        <img src={redline} alt='' />
-                        <img src={dwf} alt='' />
-                        <img src={oig} alt='' />
-                        <img src={pencil} alt='' />
-                    </div>
-                    <p>and many others</p>
+                    <p>and others</p>
                 </>
             ) : (
-                <button onClick={() => setOpen(!open)}>See all </button>
+                <button onClick={() => setOpen(!open)}>See More Partners </button>
             )}
         </Wrap>
     )
