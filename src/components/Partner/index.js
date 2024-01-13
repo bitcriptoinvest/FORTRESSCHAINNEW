@@ -77,16 +77,12 @@ export default function Partner() {
             <h3 className='title'>Honored to be accompanied with</h3>
             <div>
                 <img src={fpt} alt='' />
-            </div>
-            <div>
             <img src={matchbox} alt='' />
             </div>
             {open ? (
                 <>
                     <div>
                         <img src={kucoin} alt='' />
-                    </div>
-                    <div>
                         <img src={gateio} alt='' />
                     </div>
                     <p>and others</p>
