@@ -3,6 +3,7 @@ import fpt from '../../assets/images/fpt.png'
 import gateio from '../../assets/images/gateio.png'
 import kucoin from '../../assets/images/kucoin.png'
 import matchbox from '../../assets/images/matchbox.png'
+import pencil from '../../assets/images/pencil.png'
 import { useState } from 'react'
 const Wrap = styled.div`
     > .title {
@@ -80,6 +81,7 @@ export default function Partner() {
             <img src={matchbox} alt='' />
                         <img src={kucoin} alt='' />
                         <img src={gateio} alt='' />
+                        <img src={pencil} alt='' />
             </div>
             {open ? (
                 <>
