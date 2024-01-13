@@ -78,12 +78,12 @@ export default function Partner() {
             <div>
                 <img src={fpt} alt='' />
             <img src={matchbox} alt='' />
+                        <img src={kucoin} alt='' />
+                        <img src={gateio} alt='' />
             </div>
             {open ? (
                 <>
                     <div>
-                        <img src={kucoin} alt='' />
-                        <img src={gateio} alt='' />
                     </div>
                     <p>and others</p>
                 </>
