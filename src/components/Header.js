@@ -154,20 +154,20 @@ export default function Header() {
                 <p>Buy FortressChain Token Now On</p>
                 <div>
                   <div>
-                    <div onClick={() => window.open('https://presale.fortresschain.finance/')}>
+                    <div onClick={() => window.open('https://bilaxy.com/')}>
                       <img src={Bingx} alt='' />
                     </div>
-                    <div onClick={() => window.open('https://bridge.fortresschain.finance/')}>
+                    <div onClick={() => window.open('https://stakecube.net/')}>
                       <img src={Halo} alt='' />
                     </div>
                   </div>
                 </div>
                 <div>
                   <div>
-                    <div onClick={() => window.open('https://www.gate.io/')}>
+                    <div onClick={() => window.open('https://bitcointry.com/')}>
                       <img src={Mexc} alt='' />
                     </div>
-                    <div onClick={() => window.open('https://latoken.com/')}>
+                    <div onClick={() => window.open('https://exchange-assets.com/en/?arbitrage')}>
                       <img src={Onus} alt='' />
                     </div>
                   </div>
