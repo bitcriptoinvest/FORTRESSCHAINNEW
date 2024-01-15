@@ -147,7 +147,7 @@ export default function Feature() {
                         <div
                             className={`feature-item ${index === 3 ? "active" : ""}`}
                             onClick={() => sliderRef.current.slickGoTo(3)}>
-                            <p>Ecosystem funding and venture focused on Cosmos growth</p>
+                            <p>Ecosystem funding and venture focused on Avax growth</p>
                             <img src={ArrowRight} alt="arrow-right" />
                         </div>
                         <Gap height={40} />
