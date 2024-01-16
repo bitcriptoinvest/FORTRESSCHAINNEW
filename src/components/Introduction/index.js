@@ -148,10 +148,10 @@ export default function Introdution() {
           <Button onClick={() => window.open(' https://presale.fortresschain.finance/')}>Pre-Sale Ongoing on BSC</Button>
         </div>
         <div className='cd'>
-          {new Date('03-20-2024 00:00').getTime() > Date.now() ? (
+          {new Date('01-01-2024 00:00').getTime() > Date.now() ? (
             <>
               <p className='countdown-title color__f4'>The FortressChain Mainnet launch starting in:</p>
-              <CustomCountdown>
+              <CustomCountdown />
             </>
           ) : null}
         </div>
