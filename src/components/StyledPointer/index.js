@@ -33,7 +33,7 @@ const Blob = styled.div`
         108.46deg,
         rgb(94, 230, 208) 12.51%,
         rgb(191, 198, 255) 51.13%,
-        rgb(255, 186, 105) 87.49%
+        rgb(51, 255, 123) 87.49%
     );
     animation: rotate 20s infinite;
     opacity: 0.30;
