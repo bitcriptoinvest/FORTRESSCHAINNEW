@@ -151,7 +151,7 @@ export default function Introdution() {
           {new Date('03-20-2024 00:00').getTime() > Date.now() ? (
             <>
               <p className='countdown-title color__f4'>The FortressChain Mainnet launch starting in:</p>
-              <CustomCountdown />
+              <CustomCountdown>
             </>
           ) : null}
         </div>
