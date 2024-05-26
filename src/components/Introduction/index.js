@@ -130,10 +130,10 @@ export default function Introdution() {
     <Container>
       <Wrap>
         <div className='noti'>
-          <span>FortressChain Network token bridge is available on next weeks. Follow our guide to migrate now! </span>
+          <span>New CEX/DEX Announcement </span>
           <span>
-            <Button onClick={() => window.open('https://bridge.fortresschain.finance/')}>
-              Migrate Now
+            <Button onClick={() => window.open('https://bitcointry.com/')}>
+              BitcoinTry
             </Button>
           </span>
         </div>
