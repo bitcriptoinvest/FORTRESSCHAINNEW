@@ -46,7 +46,7 @@
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
-    background: #2F00FF;
+    background: #36007D;
     position: fixed;
 }
 ::-webkit-scrollbar-thumb {
@@ -54,7 +54,7 @@
     border-radius: 4px;
 }
 #root {
-    background: #2F00FF;
+    background: #36007D;
     color: #fff;
     font-family: SVN-Gilroy;
     overflow: hidden;
