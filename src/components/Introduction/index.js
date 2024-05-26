@@ -125,37 +125,3 @@ const Wrap = styled.div`
     }
   }
 `
-export default function Introdution() {
-  return (
-    <Container>
-      <Wrap>
-        <div className='noti'>
-          <span>FortressChain Network token bridge is available on next weeks. Follow our guide to migrate now! </span>
-          <span>
-            <Button onClick={() => window.open('https://bridge.fortresschain.finance/')}>
-              Migrate Now
-            </Button>
-          </span>
-        </div>
-        <div className='text'>
-          <h1 className='text__large'>The fastest, low fee Evm Chain</h1>
-          <p className='color__f4'>Focus on transaction speed and best fees. Users will have multiple on-chain profit opportunities on liquidity provide, yield farming and trading on cex and dex.</p>
-        </div>
-        <div className='img'>
-          <img className='aura-img' src={AuraTokenImg} alt='' />
-        </div>
-        <div className='btn'>
-          <Button onClick={() => window.open(' https://presale.fortresschain.finance/')}>Pre-Sale Ongoing on BSC</Button>
-        </div>
-        <div className='cd'>
-          {new Date('01-01-2024 00:00').getTime() > Date.now() ? (
-            <>
-              <p className='countdown-title color__f4'>The FortressChain Mainnet launch starting in:</p>
-              <CustomCountdown />
-            </>
-          ) : null}
-        </div>
-      </Wrap>
-    </Container>
-  )
-}
