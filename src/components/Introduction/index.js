@@ -125,7 +125,7 @@ const Wrap = styled.div`
     }
   }
 `
-default function Introdution() {
+export default function Introdution() {
   return (
     <Container>
       <Wrap>
