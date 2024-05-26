@@ -1,9 +1,4 @@
 import styled from "styled-components"
-import AuraTokenImg from "../../assets/images/Aura_logo_animated_1.gif"
-import Button from "../Button"
-import Container from "../Container"
-import CustomCountdown from "./Countdown"
-const Wrap = styled.div`
   position: relative;
   display: grid;
   grid-template-areas:
