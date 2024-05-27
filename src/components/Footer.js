@@ -168,13 +168,13 @@ export default function Footer() {
                         </div>
                     </div>
                     <div className="links">
-                        <img onClick={() => window.open("https://fortresschain.gitbook.io/fortress-chain/")} src={Twitter} alt="" />
+                        <img onClick={() => window.open("hhttps://twitter.com/fortress_chain")} src={Twitter} alt="" />
                         <img
                             onClick={() => window.open("https://fortresschain.gitbook.io/fortress-chain/")}
                             src={Discord}
                             alt=""
                         />
-                        <img onClick={() => window.open("https://t.me/fortresschain")} src={Telegram} alt="" />
+                        <img onClick={() => window.open("https://t.me/fortresschainglobal")} src={Telegram} alt="" />
                         <img
                             onClick={() => window.open("https://fortresschain.gitbook.io/fortress-chain/")}
                             src={LinkedIn}
