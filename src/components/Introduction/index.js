@@ -145,7 +145,7 @@ export default function Introdution() {
           <img className='aura-img' src={AuraTokenImg} alt='' />
         </div>
         <div className='btn'>
-          <Button onClick={() => window.open(' https://presale.fortresschain.finance/')}>Pre-Sale Ongoing on BSC</Button>
+          <Button onClick={() => window.open(' https://bitcointry.com/en/exchange/FTSC_USDT')}>Buy on BitcoinTRY</Button>
         </div>
         <div className='cd'>
           {new Date('01-01-2024 00:00').getTime() > Date.now() ? (
