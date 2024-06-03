@@ -133,7 +133,7 @@ export default function Introdution() {
           <span>New BRIDGE Announcement </span>
           <span>
             <Button onClick={() => window.open('https://icecreamswap.com/')}>
-              BitcoinTry
+              IceCreamSwap
             </Button>
           </span>
         </div>
