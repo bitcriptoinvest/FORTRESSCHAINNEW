@@ -130,9 +130,9 @@ export default function Introdution() {
     <Container>
       <Wrap>
         <div className='noti'>
-          <span>New CEX/DEX Announcement </span>
+          <span>New BRIDGE Announcement </span>
           <span>
-            <Button onClick={() => window.open('https://bitcointry.com/')}>
+            <Button onClick={() => window.open('https://icecreamswap.com/')}>
               BitcoinTry
             </Button>
           </span>
