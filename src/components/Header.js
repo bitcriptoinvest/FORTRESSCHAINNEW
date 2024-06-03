@@ -173,10 +173,10 @@ export default function Header() {
                   </div>
                 </div>
                 <a
-                  href='https://presale.fortresschain.finance/'
+                  href='https://bitcointry.com/en/exchange/FTSC_USDT'
                   target='_blank'
                   rel='noreferrer'>
-                  Pre-Sale
+                  Buy on BitcoinTRY
                 </a>
               </PopupContent>
             </Popup>
